@@ -24,23 +24,23 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
 
 :arrow_up: [ir pro sumario](#sumario)
 
-![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/screenshots/usando.gif)
+![gif](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/screenshots/usando.gif)
 
 ## bgc-backend-serverless
 
 :arrow_up: [ir pro sumario](#sumario)
 
-![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v3-1.png)
-![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v3-2.png)
+![image](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v3-1.png)
+![image](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v3-2.png)
 
 ## registrador-de-processo-judicial
 
 :arrow_up: [ir pro sumario](#sumario)
 
-![](https://raw.githubusercontent.com/felippedesouza/registrador-de-processo-judicial/master/img/usando.gif)
+![gif](https://raw.githubusercontent.com/felippedesouza/registrador-de-processo-judicial/master/img/usando.gif)
 
 ## treino-digitacao
 
 :arrow_up: [ir pro sumario](#sumario)
 
-![](https://raw.githubusercontent.com/felippedesouza/treino-digitacao/main/screenshots/usando.gif)
+![gif](https://raw.githubusercontent.com/felippedesouza/treino-digitacao/main/screenshots/usando.gif)

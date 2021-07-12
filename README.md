@@ -24,15 +24,15 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
 
 :arrow_up: [ir pro sumario](#sumario)
 
-![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v2-1.png)
-![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v2-2.png)
+![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v3-1.png)
+![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v3-2.png)
 
 ## bgc-backend-serverless
 
 :arrow_up: [ir pro sumario](#sumario)
 
-![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v2-1.png)
-![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v2-2.png)
+![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v3-1.png)
+![](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v3-2.png)
 
 ## registrador-de-processo-judicial
 

@@ -44,4 +44,4 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
 
 :arrow_up: [ir pro sumario](#sumario)
 
-![]()
+![](https://raw.githubusercontent.com/felippedesouza/treino-digitacao/main/screenshots/usando.gif)

@@ -1,4 +1,4 @@
-# projetos-pessoais
+# Projetos pessoais
 
 Projetos de minha autoria para exercitar e testar meus conhecimentos. 
 

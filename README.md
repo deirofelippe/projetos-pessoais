@@ -30,8 +30,8 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
 
 :arrow_up: [ir pro sumario](#sumario)
 
-![image](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v3-1.png)
-![image](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/img/v3-2.png)
+![image](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/screenshots/v3-1.png)
+![image](https://raw.githubusercontent.com/felippedesouza/bgc-frontend/main/screenshots/v3-2.png)
 
 ## registrador-de-processo-judicial
 

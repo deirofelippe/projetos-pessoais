@@ -4,6 +4,10 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
 
 ## Sumario
 
+- [2024/2 - Desafio Anotaai (em desenvolvimento...)](#)
+
+Repositório: [anotaai-challenge]((https://github.com/deirofelippe/anotaai-challenge)
+
 - [2022/4 - Hackathon da FCamara](#)
 
 Linguagem: Javascript

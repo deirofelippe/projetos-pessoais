@@ -6,7 +6,7 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
 
 - [2024/2 - Desafio Anotaai (em desenvolvimento...)](#)
 
-Repositório: [anotaai-challenge]((https://github.com/deirofelippe/anotaai-challenge)
+Repositório: [anotaai-challenge](https://github.com/deirofelippe/anotaai-challenge)
 
 - [2022/4 - Hackathon da FCamara](#)
 

@@ -11,6 +11,9 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
   - **Repositório:** [teste-tecnico-nimbus](https://github.com/deirofelippe/teste-tecnico-nimbus)
 
 - [2024/2 - Desafio Anotaai (em desenvolvimento...)](#)
+  - **Linguagem:** Javascript
+  - **Outras tecnologias:** RabbitMQ, AWS S3, Localstack, Terraform, Prometheus, Grafana, K6, Github Actions (Act), MongoDB.
+  - **Sobre:** desafio do anotaai para praticar fila e mongodb.
   - **Repositório:** [anotaai-challenge](https://github.com/deirofelippe/anotaai-challenge)
 
 - [2022/4 - Hackathon da FCamara](#)

@@ -10,7 +10,7 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
   - **Sobre:** são 2 aplicações, uma é API Web que cadastra usuário no banco de dados. Outra baseado nos dados informados, busca usuario no banco, gera um relatório em pdf usando dados do arquivo bruto e envia por email.
   - **Repositório:** [teste-tecnico-nimbus](https://github.com/deirofelippe/teste-tecnico-nimbus)
 
-- [2024/2 - Desafio Anotaai (em desenvolvimento...)](#)
+- [2024/2 - Desafio Anotaai](#desafio-anotaai)
   - **Linguagem:** Javascript
   - **Outras tecnologias:** RabbitMQ, AWS S3, Localstack, Terraform, Prometheus, Grafana, K6, Github Actions (Act), MongoDB.
   - **Sobre:** desafio do anotaai para praticar fila e mongodb.
@@ -69,6 +69,18 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
 Link para o vídeo no youtube.
 
 [![Vídeo usando a aplicação 1 e aplicação 2](https://img.youtube.com/vi/qYRlWUg0b0I/0.jpg)](https://www.youtube.com/watch?v=qYRlWUg0b0I)
+
+### desafio-anotaai
+
+:arrow_up: [ir pro sumario](#sumario)
+
+Vídeo da versão 1 sendo usada (Docker)
+
+[![Vídeo da versão 1 sendo usada (Docker)](https://img.youtube.com/vi/1wTzJHnSl2M/0.jpg)](https://www.youtube.com/watch?v=1wTzJHnSl2M)
+
+Vídeo da versão 1 sendo usada (Kubernetes)
+
+[![Vídeo da versão 1 sendo usada (Kubernetes)](https://img.youtube.com/vi/xRRKmhuxGw8/0.jpg)](https://www.youtube.com/watch?v=xRRKmhuxGw8)
 
 ### agenda-telefonica
 

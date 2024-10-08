@@ -12,7 +12,7 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
 
 - [2024/2 - Desafio Anotaai](#desafio-anotaai)
   - **Linguagem:** Javascript
-  - **Outras tecnologias:** RabbitMQ, AWS S3, Localstack, Terraform, Prometheus, Grafana, K6, Github Actions (Act), MongoDB.
+  - **Outras tecnologias:** RabbitMQ, AWS S3, Localstack, Terraform, Prometheus, Grafana, K6, Github Actions (Act), MongoDB, Kubernetes.
   - **Sobre:** desafio do anotaai para praticar fila e mongodb.
   - **Repositório:** [anotaai-challenge](https://github.com/deirofelippe/anotaai-challenge)
 

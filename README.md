@@ -55,8 +55,14 @@ Projetos de minha autoria para exercitar e testar meus conhecimentos.
 - [2021/1 - CRUD de processos (PHP)](#registrador-de-processo-judicial)
    - **Linguagem:** PHP
    - **Outras tecnologias:** Laravel, Dompdf, Bootstrap, MySQL.
-   - **Sobre:** CRUD simples de processos judiciais que gera relatório, feito para facilitar o trabalho do meu pai.
+   - **Sobre:** Atualização do sistema que desenvolvi para meu pai. Gerador de relatório sobre processos judiciais cadastrados.
    - **Repositório:** [registrador-de-processo-judicial](https://github.com/felippedesouza/registrador-de-processo-judicial)
+
+- [2018/7 - CRUD de processos (JAVA)](#registrador-de-processo-judicial)
+   - **Linguagem:** Java
+   - **Outras tecnologias:** Java Swing, Jaspersoft Studio (geração de relatório) e JDBC com MySQL.
+   - **Sobre:** CRUD simples de processos judiciais que gera relatório, feito para facilitar o trabalho do meu pai.
+   - **Repositório:** [gerenciador-de-processos](https://github.com/deirofelippe/gerenciador-de-processos)
 
 - [2015 à 2017 - Projetos desenvolvidos na FAETEC](#)
 
